@@ -1,0 +1,10 @@
+{
+  "cSpell.words": ["nuxt"],
+  "eslint.validate": ["javascript", "javascriptreact", "vue", "typescript"],
+  "eslint.format.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "eslint.autoFixOnSave": true
+  }
+}
